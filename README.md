@@ -1,1 +1,1 @@
-#My first git project
+My first repo from VS
